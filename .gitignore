@@ -1,0 +1,6 @@
+node_modules/
+.env
+.DS_Store
+server/key_debug.txt
+server/key_test_results.txt
+server/model_output.txt
